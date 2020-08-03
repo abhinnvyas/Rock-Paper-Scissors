@@ -13,7 +13,7 @@ Clone this Repository by running the following command in the terminal.
 
 After the navigate to that directory.
 
-```cd /Rock-Paper-Scissors```
+```cd Rock-Paper-Scissors```
 
 Run the Script by the simply writing the following command.
 
