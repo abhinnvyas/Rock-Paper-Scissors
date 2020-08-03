@@ -16,7 +16,7 @@ while True:
 
     print(f">>>{temp}")
 
-    userInput= input("\nDo you want to play another game?")
+    userInput= input("\nDo you want to play another game?(y/n) ")
 
     if userInput.lower() == "y":
         continue
