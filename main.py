@@ -6,7 +6,7 @@ game = ['rock','paper','scissors']
 
 while True:
     os.system('cls')
-    print("Start getting you hands in Motion!!!")
+    print("Start getting you hands in Motion!!!!")
     time.sleep(1)
     temp = game[random.randrange(0,2)]
 
